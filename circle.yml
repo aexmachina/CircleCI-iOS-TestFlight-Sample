@@ -1,4 +1,6 @@
 machine:
+  xcode:
+    version: '7.0'
   environment:
     XCODE_SCHEME: CircleCI-Sample
     XCODE_WORKSPACE: CircleCI-Sample.xcworkspace
